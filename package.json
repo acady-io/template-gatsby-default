@@ -1,0 +1,29 @@
+{
+  "name": "template-gatsby-default",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gatsby Default Template",
+  "author": "christian.schab@web.academy",
+  "keywords": [
+    "gatsby",
+    "acady"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-sass": "^2.8.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}

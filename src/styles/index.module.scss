@@ -1,0 +1,65 @@
+// styles
+.acady-logo {
+  float: left;
+}
+
+.page {
+  color: #232129;
+  padding: 48px;
+  font-family: -apple-system, Roboto, sans-serif, serif;
+}
+
+.heading {
+  margin-top: 75px;
+  margin-left: 10px;
+  margin-bottom: 64px;
+  max-width: 320px;
+  float: left;
+}
+
+.heading-accent {
+  color: #663399;
+}
+
+.paragraph {
+  margin-Bottom: 48px;
+  clear: left;
+}
+
+.code {
+  color: #8A6534;
+  padding: 4px;
+  background-color: #FFF4DB;
+  font-size: 1.25rem;
+  border-radius: 4px
+}
+
+.list {
+  margin-bottom: 96px;
+  padding-left: 0;
+}
+
+.list-item {
+  font-weight: 300;
+  font-size: 24px;
+  max-width: 560px;
+}
+
+.link {
+  color: #8954A8;
+  font-weight: bold;
+  font-size: 16px;
+  vertical-align: 5%;
+}
+
+.doc-link {
+  @extend .link;
+  list-style-type: none;
+  margin-bottom: 24px;
+}
+
+.description {
+  color: #232129;
+  font-size: 14px;
+}
+
