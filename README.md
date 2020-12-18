@@ -4,18 +4,21 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby minimal starter template for acady
 </h1>
 
 ## 🚀 Quick start
 
 1. **Create a Gatsby site.**
 
-   Use the Gatsby CLI to create a new site, specifying the minimal starter.
+   Use acady to create a new Gatsby site.
 
    ```shell
-   # create a new Gatsby site using the minimal starter
-   npm init gatsby
+   # Install acady if not yet done
+   npm install -g acady
+   
+   # Create Gatsby site
+   acady create -t gatsby
    ```
 
 2. **Start developing.**
@@ -31,7 +34,7 @@
 
    Your site is now running at http://localhost:8000!
 
-   Edit `src/pages/index.js` to see your site update in real-time!
+   Edit `src/pages/index.tsx` to see your site update in real-time!
 
 4. **Learn more**
 
