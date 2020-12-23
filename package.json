@@ -9,11 +9,8 @@
     "acady"
   ],
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "dev": "acady dev",
+    "deploy": "acady deploy"
   },
   "license": "MIT",
   "dependencies": {
