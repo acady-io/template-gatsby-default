@@ -61,7 +61,8 @@ export default class IndexPage extends React.Component<PageProps, any> {
                     Congratulations
                     <br/>
                     <span
-                        className={indexStyles.headingAccent}>— you just made a Gatsby site with the help of acady!</span><br/>
+                        className={indexStyles.headingAccent}>— you just made a Gatsby site with the help of  <a
+                        href="https://acady.io/">acady</a>!</span><br/>
                     <span role="img" aria-label="Party popper emojis">🎉🎉🎉</span>
                 </h1>
                 <p className={indexStyles.paragraph}>
